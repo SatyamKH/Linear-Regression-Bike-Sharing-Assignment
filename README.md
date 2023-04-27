@@ -15,6 +15,9 @@ Business Goal: You are required to model the demand for shared bikes with the av
 
 ## Conclusion:
 
+spring , summer , Winter , January , September, Saturday , Light rain_Light snow_Thunderstorm , Mist_cloudy , yr , WorkingDay , windspeed
+
+
 Summer is followed by Spring and winter, which is to be expected given that
 the weather is ideal for motorcycling.
 
