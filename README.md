@@ -12,3 +12,20 @@ They have contracted a consulting company to understand the factors on which the
 Which variables are significant in predicting the demand for shared bikes. How well those variables describe the bike demands Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
 Business Goal: You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+
+Conclusion:
+
+spring , summer , Winter , January , September, Saturday , Light rain_Light snow_Thunderstorm , Mist_cloudy , yr , WorkingDay , windspeed
+
+Summer is followed by Spring, which is to be expected given that the weather is ideal for motorcycling.
+
+2019 had a higher median than 2018, which may be due to the growing popularity of bike rentals and people's greater environmental consciousness. Median bike rentals are increasing year over year.
+
+Because fall months have a larger median, the overall spread in the month plot reflects the season plot.
+On days other than holidays, people rent more frequently, which could indicate that they prefer to utilize their own automobiles and spend time with their families over renting bikes on holidays.
+
+While the overall median for all days is the same, the spread on Friday and Monday is larger, as may be seen.
+The median for working and non-working days is about the same, but the dispersion is larger on non-working days since some people may have plans and not wish to rent bicycles on those days.
+
+Because they are temperate, have minimal humidity, and are cooler in temperature, clear sky are great for renting bikes.
+
