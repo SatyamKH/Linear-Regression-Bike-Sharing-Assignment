@@ -15,17 +15,28 @@ Business Goal: You are required to model the demand for shared bikes with the av
 
 ## Conclusion:
 
-spring , summer , Winter , January , September, Saturday , Light rain_Light snow_Thunderstorm , Mist_cloudy , yr , WorkingDay , windspeed
+Summer is followed by Spring and winter, which is to be expected given that
+the weather is ideal for motorcycling.
 
-Summer is followed by Spring, which is to be expected given that the weather is ideal for motorcycling.
+2. Median bike rentals are rising year over year, with 2019 having a
+higher median than 2018, which may be related to the growing
+popularity of bike rentals and people's increased environmental
+consciousness.
 
-2019 had a higher median than 2018, which may be due to the growing popularity of bike rentals and people's greater environmental consciousness. Median bike rentals are increasing year over year.
+3. Because fall months have a larger median, the overall spread in the
+month plot reflects the season plot.
 
-Because fall months have a larger median, the overall spread in the month plot reflects the season plot.
-On days other than holidays, people rent more frequently, which could indicate that they prefer to utilize their own automobiles and spend time with their families over renting bikes on holidays.
+4. People rent more frequently on non-holiday days than on holidays,
+which could be because they prefer to spend time with their families
+and use their own vehicles rather than renting bikes.
 
-While the overall median for all days is the same, the spread on Friday and Monday is larger, as may be seen.
-The median for working and non-working days is about the same, but the dispersion is larger on non-working days since some people may have plans and not wish to rent bicycles on those days.
+5. While the overall median for all days is the same, the spread on
+Saturday is larger, as may be seen.
 
-Because they are temperate, have minimal humidity, and are cooler in temperature, clear sky are great for renting bikes.
+6. The median for working and non-working days is about the same,
+but the dispersion is larger on non-working days since some people
+may have plans and not wish to rent bicycles on those days.
+
+7. Clear skies are best for renting bikes because they are temperate,
+have little humidity, and are cooler in temperature
 
